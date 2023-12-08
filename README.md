@@ -1,1 +1,1 @@
-link: https://gsc6610.github.io/DrumKit/
+link: https://stargsc.github.io/DrumKit/
